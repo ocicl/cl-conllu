@@ -2,9 +2,8 @@
 
 tool for working with conllu files in CL
 
-|---------+-------------------------------------------|
-| source  | git:http://github.com/own-pt/cl-conllu.git   |
-| commit  | 7857125  |
-| systems | cl-conllu |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/own-pt/cl-conllu.git |
+| commit  | 7857125                                     |
+| systems | cl-conllu                                   |
+|---------+---------------------------------------------|
